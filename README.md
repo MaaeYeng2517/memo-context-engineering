@@ -1541,5 +1541,13 @@ Cost
 
 ```
 ```
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+## 📄 License
+
+Copyright © 2026 MAMO Context Engineering
+
+This project is licensed under the **Apache License 2.0**.
+
+See the [LICENSE](LICENSE) file for details.
+
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ```
